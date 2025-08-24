@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Tithi 👋</h1>
 <h3 align="center">A learner, trying to grow</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=savvymishu&label=Profile%20views&color=0e75b6&style=flat" alt="savvymishu" /> </p>
-
 - 🌱 I’m currently learning **Web development**
 
 - 📫 Reach me at **tithibala2024@gmail.com**
