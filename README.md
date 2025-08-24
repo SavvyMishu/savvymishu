@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Tithi 👋</h1>
+<h1 align="left">Hi , I'm Tithi 👋</h1>
 <h3 align="center">A learner, trying to grow</h3>
 
 - 🌱 I’m currently learning **Web development**
